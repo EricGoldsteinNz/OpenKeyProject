@@ -1,7 +1,7 @@
 //(this is just a reference table to help pick cuts below)
 //0 = .335",1:1 = .320",2:2 = .305",3:3 = .290",4:4 = .275",5:5 = .260",6:6 = .245",7:7 = .230",8:8 = .215",9:9 = .200"]
 
-//cuts are ordered teh same as Schlage key codes
+//cuts are ordered the same as Schlage key codes
 //(cut at the handle of key)
 cut_1 = 2; 
 cut_2 = 3;
